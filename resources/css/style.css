@@ -1,4 +1,26 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+h1{
+font-family: verdana;
+font-weight: normal;
+font-size: 50px;
+color: white;
+}
 .download{
   font-size: 16px;
-  color: Aquamarine;
+  color: aquamarine;
+  }
+h2{
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 48px;
+  color: white;
 }
+h3{font-family: verdana;
+font-size: 21px;
+color: grey;
+}
+#copyright{color: grey;
+text-align: right;}
